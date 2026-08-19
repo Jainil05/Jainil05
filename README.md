@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:1E1B4B&height=220&section=header&text=Jainil%20Pidhadiya&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20Student%20%7C%20MCA%20%7C%20Full-Stack%20Learner&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:1E1B4B&height=220&section=header&text=Jainil%20Pidhadiya&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20Student%20%7C%20MCA%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/Jainil05">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
